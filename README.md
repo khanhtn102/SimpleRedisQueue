@@ -2,4 +2,4 @@
 Publish-Subscribe with queue using Redis
 
 # Demo
-![Demo](Images/demo.png)
+![alt text](images/demo.png)
